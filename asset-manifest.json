@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/onepage-react-tailwindcss/static/css/main.a0fc48ad.css",
+    "main.js": "/onepage-react-tailwindcss/static/js/main.2d121b5b.js",
+    "static/media/blokiso.png": "/onepage-react-tailwindcss/static/media/blokiso.375556346c06b8f81014.png",
+    "static/media/devblue.png": "/onepage-react-tailwindcss/static/media/devblue.ada251eda6c495ba95c7.png",
+    "index.html": "/onepage-react-tailwindcss/index.html",
+    "main.a0fc48ad.css.map": "/onepage-react-tailwindcss/static/css/main.a0fc48ad.css.map",
+    "main.2d121b5b.js.map": "/onepage-react-tailwindcss/static/js/main.2d121b5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fc48ad.css",
+    "static/js/main.2d121b5b.js"
+  ]
+}
